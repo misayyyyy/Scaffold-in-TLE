@@ -1,6 +1,6 @@
 <html>
 <head><title>Scaffold 1 in TLE</title><head>
-<body background="tle5.jpg">
+<body bgcolor="black">
 <font color="white">
 
 <a href="HOME.html">
