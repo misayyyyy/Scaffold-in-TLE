@@ -1,8 +1,13 @@
 <html>
 <head><title>Scaffold 1 in TLE</title><head>
-<body>
-  <body background="tle5.jpg">
-  
+<style>
+  body  {
+      background-image: url("img_tle5.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+        }
+  </style>
+ <body>
 <font color="white">
 
 <a href="HOME.html">
