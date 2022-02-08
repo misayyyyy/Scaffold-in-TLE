@@ -2,11 +2,11 @@
 <head><title>Scaffold 1 in TLE</title><head>
 <style>
   body  {
-      background-image: url("img_tle5.jpg");
+      background-image: url("tle5.jpg");
       background-repeat: no-repeat;
       background-attachment: fixed; 
         }
-  </style>
+</style>
  <body>
 <font color="white">
 
@@ -59,3 +59,4 @@ MATH </a>
 CAE </a>
 </body>
 </html>
+
